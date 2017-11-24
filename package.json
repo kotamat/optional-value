@@ -1,6 +1,6 @@
 {
   "name": "optional-value",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Get optional value from deep nested object, array",
   "main": "lib/index.js",
   "repository": "git@github.com:reno-shelter/optional-value",
