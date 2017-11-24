@@ -3,8 +3,8 @@
   "version": "0.1.2",
   "description": "Get optional value from deep nested object, array",
   "main": "lib/index.js",
-  "repository": "git@github.com:reno-shelter/optional-value",
-  "author": "kotamat <kota.matsumoto@scouter.co.jp>",
+  "repository": "git@github.com:kotamat/optional-value",
+  "author": "kotamat <kota1861@gmail.com>",
   "license": "MIT",
   "private": false,
   "scripts": {
