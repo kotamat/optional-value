@@ -2,6 +2,15 @@
 
 optional-value finds out a value from nested object or array.
 
+## Install
+
+```bash
+# yarn
+$ yarn add optional-value
+# npm
+$ npm install optional-value
+```
+
 ## Usage
 
 ```js
